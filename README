@@ -1,0 +1,12 @@
+==================
+=  Description:
+==================
+In this exercise I created a 4 in a Row game. The game consists of Game Logic, an AI component
+a graphic user interface and a main function used to run the game. When a user opens the game they must first
+select the player type for players 1 and 2 (either human or AI) and then the game begins with the players
+selected, with each player attempting to place 4 consecutive disks in a row, and ends
+either when a player has managed to do this or when the board is full and no more moves can be made. Once
+the game is over the user will receive a pop up window where they are asked whether they would like to play again.
+If they chose to play again then all settings are reset and the game may begin again, If they chose to exit then
+the window shuts down and the program finishes.
+
